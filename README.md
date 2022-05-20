@@ -117,7 +117,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammetbasardincel&show_icons=true&locale=en&layout=compact" alt="muhammetbasardincel" /><br><br></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammetbasardincel&show_icons=true&locale=en" alt="muhammetbasardincel" /></p>
+<p align="center" >&nbsp;<img width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=muhammetbasardincel&show_icons=true&locale=en" alt="muhammetbasardincel" /><img width="300" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetbasardincel&" alt="muhammetbasardincel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetbasardincel&" alt="muhammetbasardincel" /></p>
 
