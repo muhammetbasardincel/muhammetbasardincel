@@ -119,8 +119,8 @@
 
 <h3 align="left">Statistic:</h3>
 <p align="center" >
+   <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=muhammetbasardincel&show_icons=true&locale=en" alt="muhammetbasardincel" />    <img width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetbasardincel&" alt="muhammetbasardincel" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammetbasardincel&show_icons=true&locale=en&layout=compact" alt="muhammetbasardincel" />
-   <img width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=muhammetbasardincel&show_icons=true&locale=en" alt="muhammetbasardincel" />    <img width="300" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetbasardincel&" alt="muhammetbasardincel" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetbasardincel&" alt="muhammetbasardincel" /></p>
