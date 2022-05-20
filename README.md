@@ -115,10 +115,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mubadi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mubadi" /></a><br><br><br></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammetbasardincel&show_icons=true&locale=en&layout=compact" alt="muhammetbasardincel" /><br><br></p>
 ---
 
+<h3 align="left">Statistic:</h3>
 <p align="center" >
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammetbasardincel&show_icons=true&locale=en&layout=compact" alt="muhammetbasardincel" />
    <img width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=muhammetbasardincel&show_icons=true&locale=en" alt="muhammetbasardincel" />    <img width="300" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetbasardincel&" alt="muhammetbasardincel" />
 </p>
 
